@@ -1,0 +1,9 @@
+﻿DisplayName,GroupDescription,OwnerEmail,MemberEmails,
+Name,Desc,Owner(s),,
+Example,,,,
+Group1,Hello World!,vscode@domain.org,"vscode@domain.org,turndownforwhat@domain.org",
+,,,,
+,,,,
+,,,,", without a space is a separator"
+,,,,
+,,,,"hello@world.com,evil@live.com"
